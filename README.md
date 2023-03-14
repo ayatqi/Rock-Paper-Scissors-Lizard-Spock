@@ -1,1 +1,1 @@
-# s-Rock-Paper-Scissors-Lizard-Spock
+# Rock, Paper, Scissors, Lizard, and Spock Java
